@@ -53,6 +53,22 @@ route53에 있는 네임 서버를 기재 해줬고,
 Cname의 name과 value 값을 줬다.
 
 
+
+// 서버 오픈 과정 간략히
+ec2 인스턴스 구매 (ubuntu 18, t2 티어 (무료)),
+인바운드 보안 설정 
+-> 터미널에, ssh -i 보안키 ubuntu@ip 주소로 입력 
+-> node 설치, 
+-> mysql 설치 
+-> 외부 접속 허용 (bindAdress 주석 처리 포함)
+-> ngnix 설치 -> proxy 설정 
+-> reverse proxy 설정 부분에 이미지 관련 코드 추가, socket io 설정 부분 추가
+-> 파이질라 파일 업로드
+-> pm2 설정
+-> sudo s -> cd 파이질라 업로드 파일 
+-> pm2 start/ pm2 log
+
+
 // ssl 인증서, loadblancer에 대해서 자세히 알기
 // cloudFront 개념 알기 
 
