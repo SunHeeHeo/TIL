@@ -1,3 +1,3 @@
 # TIL
 
-https://pickyeaters.tistory.com/121
+[예전 블로그](https://pickyeaters.tistory.com)  
