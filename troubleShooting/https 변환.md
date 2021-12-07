@@ -72,4 +72,3 @@ ec2 인스턴스 구매 (ubuntu 18, t2 티어 (무료)),
 // ssl 인증서, loadblancer에 대해서 자세히 알기
 // cloudFront 개념 알기 
 
-
