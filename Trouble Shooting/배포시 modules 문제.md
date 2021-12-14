@@ -18,3 +18,4 @@ nvm install v14.17.6
 그래서 ec2를 업그레이드 해주니, 문제가 해결 되었다!
 
 
+<img width="308" alt="스크린샷 2021-12-14 오후 8 36 49" src="https://user-images.githubusercontent.com/88166362/146060937-5e79330d-932c-4629-82dd-e7899008bf12.png">
