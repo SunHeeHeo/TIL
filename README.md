@@ -5,7 +5,6 @@
    ###    매일매일 성장하기 위해 쓰는 기록입니다 :)  
 #
 ## Category  
-#
  :sunny:  [Daily 일지](https://github.com/SunHeeHeo/TIL/tree/main/Daily%20Log) : 성장하기 위해 매일을 기록합니다.  
  :sunny:  [Trouble Shooting](https://github.com/SunHeeHeo/TIL/tree/main/Trouble%20Shooting) : 같은 실수 멈춰! 예외처리를 기록합니다.   
  :sunny:  [Not to make same mistakes]() : 같은 실수를 하지 않기 위해 만든 시스템 입니다.   
