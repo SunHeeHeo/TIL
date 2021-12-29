@@ -5,7 +5,7 @@ connect econnrefused 127.0.0.1:3306 자꾸 이 에러를 뱉었다.
 
 db 연결이 안되있다고 해서,
 다시 설치하고, 비밀번호를 세팅 해주었다.
-그러니,
+그러니,  
 <img width="510" alt="스크린샷 2021-12-29 오후 11 25 24" src="https://user-images.githubusercontent.com/88166362/147686198-c3eaa401-e9c8-492f-a38d-4d090bb219e4.png">
 
 access denided for user 
