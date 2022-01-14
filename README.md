@@ -2,7 +2,7 @@
 
 ##  우공이산 🌝
 ### :seedling: 쉬지 않고 꾸준하게 한가지 일을 열심히 하면, 마침내 큰 일을 이룰수 있다.  
-   ###    매일매일 성장하기 위해 쓰는 기록입니다 :)  
+   ### 매일매일 성장하기 위해 쓰는 기록입니다 :)  
 #
 ## Category  
  :sunny:  [Daily 일지](https://github.com/SunHeeHeo/TIL/tree/main/Daily%20Log) : 성장하기 위해 매일을 기록합니다.  
