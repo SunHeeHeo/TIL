@@ -10,7 +10,6 @@
  :sunny:  [Not to make same mistakes]() : 같은 실수를 하지 않기 위해 만든 시스템 입니다.   
  :sunny: [Code that i want to keep](https://github.com/SunHeeHeo/TIL/tree/main/Code%20that%20i%20want%20to%20keep) : 기록하고 싶은 코드 모음입니다.   
 #
-[이전 블로그 ✍️](https://pickyeaters.tistory.com)     
 
 
 
